@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523979303029",
+    "project_id": "inovax-a3584",
+    "storage_bucket": "inovax-a3584.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523979303029:android:efa13df0ea3990b348703c",
+        "android_client_info": {
+          "package_name": "com.example.inovax1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR1n7G-ALTtBGpcISzs9inONN0bGHupsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
